@@ -4,16 +4,16 @@
       label="PracticallyMacroFeature Feature"
       version="0.3.4">
 
-   <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+   <description url="https://sourceforge.net/projects/practicalmacro/">
+      This is an Eclipse editor macro tool for Eclipse 3.4 or later.  This is a bit of a hack, but I&apos;ve attempted to play in the Eclipse command structure.  Create/Export/Save/Play commands.
    </description>
 
-   <copyright url="http://www.example.com/copyright">
-      [Enter Copyright Description here.]
+   <copyright url="https://sourceforge.net/projects/practicalmacro/">
+      Copyright Ernest Pasour 2009-2011
    </copyright>
 
-   <license url="http://www.example.com/license">
-      [Enter License Description here.]
+   <license url="https://sourceforge.net/projects/practicalmacro/">
+      Eclipse Public License
    </license>
 
    <plugin
